@@ -23,3 +23,6 @@ These will need to be printed or ordered from an online printing service
 
 # Possible improvements
 - Upgrade to another chip that allows for usb emulation and allowing for compatibility with consoles
+- Improve Layout Ergonomics
+- Hot Swap Switch Connections
+- Multiple RGB Configurations
