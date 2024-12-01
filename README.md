@@ -26,3 +26,15 @@ These will need to be printed or ordered from an online printing service
 - Improve Layout Ergonomics
 - Hot Swap Switch Connections
 - Multiple RGB Configurations
+
+#  Project History
+### V1
+<img width="400" alt="Screenshot 2024-11-30 at 11 01 40 AM" src="https://github.com/user-attachments/assets/d0e5f31b-63e8-4ff7-acad-485db612cf44">
+<img width="400" alt="Screenshot 2024-11-30 at 11 01 40 AM" src="https://github.com/user-attachments/assets/1580f799-caea-4de6-b4c3-3de3be586fac">
+
+### V2
+<img width="400" alt="Screenshot 2024-11-30 at 11 01 40 AM" src="https://github.com/user-attachments/assets/91879a75-9f59-4f4b-be89-d4d892aef9df">
+
+### V3 (Current)
+<img width="400" alt="Screenshot 2024-11-30 at 11 01 40 AM" src="https://github.com/user-attachments/assets/fed7a8ec-7f14-4792-a873-0a2bf7178f7d">
+
